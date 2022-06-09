@@ -1,4 +1,4 @@
-<img src = "./assets/hehehe.jpg"> 
+<img src = "./assets/hehehe.jpg" widht = "100%"> 
 
 
 # Hi there!
